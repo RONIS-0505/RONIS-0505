@@ -12,9 +12,9 @@ I'm a  backend developer from Russia
 
 About me
 
-- 💼 Freelancer
+-  Freelancer
 
-- ❤️ I love writing Python, and building fun experiments on type-level
+-  I love writing Python
 
 
 ### :hammer_and_wrench: Tools :
