@@ -1,5 +1,7 @@
-# Python developer
+
 <div id="header" align="center">
+  
+  # Python developer
   <img src="https://www.ronis0505.tech/static/icons/scaler-create-impact.gif" width="100"/>
 </div>
 <div  align="center">
@@ -8,11 +10,19 @@
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tools :
+
+  ---
+
+  
 <div align="center" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="60" height="60"/>&nbsp;
 </div>
+
+  ---
+
+  
 <div id="badges" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Java" alt="nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -25,6 +35,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
 </div>
+
+  ---
+
+  
 
 ###  Leetcode :
 <div align="center">
