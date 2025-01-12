@@ -1,8 +1,8 @@
 # Python developer
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://www.ronis0505.tech/static/icons/scaler-create-impact.gif" width="100"/>
 </div>
-
+<div  align="center">
   <a href="https://t.me/Ronis_0505">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -10,8 +10,8 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center" >
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="60" height="60"/>&nbsp;
 </div>
 <div id="badges" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Java" alt="nginx" width="40" height="40"/>&nbsp;
