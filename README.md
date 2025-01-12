@@ -1,7 +1,5 @@
 
 <div id="header" align="center">
-  
-  # Python developer
   <img src="https://www.ronis0505.tech/static/icons/scaler-create-impact.gif" width="100"/>
 </div>
 <div  align="center">
@@ -9,6 +7,15 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
+I'm a  backend developer from Russia
+
+About me
+
+- 💼 Freelancer
+
+- ❤️ I love writing Python, and building fun experiments on type-level
+
 
 ### :hammer_and_wrench: Tools :
 
@@ -48,12 +55,12 @@
 
 
 ### Git Stats:
-<div align="center" >
+<div style="display: flex; justify-content: space-around; align-items: center;">
   <a href="https://github.com/RONIS-0505/github-readme-stats">
-      <img width="400"  src="https://github-readme-stats.vercel.app/api?username=RONIS-0505" />
+      <img  margin="20" src="https://github-readme-stats.vercel.app/api?username=RONIS-0505" />
   </a>
   <a href="https://github.com/RONIS-0505/">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=RONIS-0505&layout=compact&langs_count=8" />
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=RONIS-0505&layout=compact&langs_count=8" />
   </a>
 </div>
 
