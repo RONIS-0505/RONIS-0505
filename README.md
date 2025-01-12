@@ -1,6 +1,6 @@
 # Python developer
 <div id="header" align="center">
-  <img src="https://www.ronis0505.tech/static/icons/python-original.svg" width="100"/>
+  <img src="https://www.ronis0505.tech/static/icons/scaler-create-impact.gif" width="100"/>
 </div>
 <div  align="center">
   <a href="https://t.me/Ronis_0505">
