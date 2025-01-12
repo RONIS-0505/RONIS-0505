@@ -1,9 +1,10 @@
 <div align="center">
 
 # Python developer
-  <div align="center">
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/RONIS-05-JL?ext=heatmap)
-  </div>
+
+</div>
+<div align="center">
+![Leetcode Stats](https://leetcard.jacoblin.cool/RONIS-05-JL?ext=heatmap)
 </div>
 
 <!--
