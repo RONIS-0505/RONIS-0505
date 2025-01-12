@@ -4,8 +4,7 @@
 
 </div>
 <div align="center">
-  <img src="[https://via.placeholder.com/150](https://leetcard.jacoblin.cool/RONIS-05-JL?ext=heatmap)" alt="Пример изображения" />
-![Leetcode Stats](https://leetcard.jacoblin.cool/RONIS-05-JL?ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/RONIS-05-JL?ext=heatmap" alt="Пример изображения" />
 </div>
 
 <!--
