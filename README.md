@@ -2,8 +2,6 @@
 
 # Python developer
 
-</div>
-<div align="center">
   <img src="https://leetcard.jacoblin.cool/RONIS-05-JL?theme=dark&ext=heatmap" alt="Пример изображения" />
 </div>
 
