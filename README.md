@@ -1,9 +1,9 @@
 <div align="center">
 
-# Моя персональная страница
-![Leetcode Stats](https://leetcard.jacoblin.cool/RONIS-05-JL?ext=heatmap)
-Привет! Добро пожаловать в мой репозиторий.
-
+# Python developer
+  <div align="center">
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/RONIS-05-JL?ext=heatmap)
+  </div>
 </div>
 
 <!--
