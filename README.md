@@ -1,11 +1,11 @@
 <div align="center">
 
 # Моя персональная страница
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/RONIS-05-JL?ext=heatmap)
 Привет! Добро пожаловать в мой репозиторий.
 
 </div>
-![Leetcode Stats](https://leetcard.jacoblin.cool/RONIS-05-JL?ext=heatmap)
+
 <!--
 **RONIS-0505/RONIS-0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
