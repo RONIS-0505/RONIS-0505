@@ -48,12 +48,12 @@
 
 
 ### Git Stats:
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+<div align="center" >
   <a href="https://github.com/RONIS-0505/github-readme-stats">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=RONIS-0505" />
+      <img width="400"  src="https://github-readme-stats.vercel.app/api?username=RONIS-0505" />
   </a>
   <a href="https://github.com/RONIS-0505/">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=RONIS-0505&layout=compact&langs_count=8" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=RONIS-0505&layout=compact&langs_count=8" />
   </a>
 </div>
 
