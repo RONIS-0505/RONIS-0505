@@ -56,8 +56,8 @@ About me
 
 ### Git Stats:
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <a href="https://github.com/RONIS-0505/github-readme-stats">
-      <img  margin="20" src="https://github-readme-stats.vercel.app/api?username=RONIS-0505" />
+  <a href="https://github.com/RONIS-0505">
+      <img  src="https://github-readme-stats.vercel.app/api?username=RONIS-0505" />
   </a>
   <a href="https://github.com/RONIS-0505/">
       <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=RONIS-0505&layout=compact&langs_count=8" />
