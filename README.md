@@ -14,7 +14,7 @@ About me
 
 -  Freelancer
 
--  I like writing in python 
+-  I like writing in Python 
 
 
 ### :hammer_and_wrench: Tools :
