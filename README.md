@@ -8,13 +8,6 @@
   </a>
 </div>
 
-I'm a  backend developer from Russia
-
-About me
-
--  Freelancer
-
--  I like writing in Python 
 
 
 ### :hammer_and_wrench: Tools :
